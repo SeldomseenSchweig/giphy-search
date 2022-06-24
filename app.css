@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+form {
+    display: inline-block;
+}
+button{
+    background-color:#0a0a23;
+    color: #fff;
+    border:none;
+    border-radius:10px;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+    width: 10em;  height: 2em;
+
+}
+#remove{
+    background-color: chocolate;
+
+}
+input{
+    width: 10em;  height: 2em;
+}
+h1{
+    font-size: 5rem;
+}
+img{
+    max-width: 100%;;
+}
+
